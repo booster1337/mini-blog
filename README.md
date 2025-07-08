@@ -1,12 +1,24 @@
-# 📝 Mini Blog (PHP + MySQL)
+# Mini Blog
 
-Prosty system blogowy napisany w PHP z wykorzystaniem MySQL. Umożliwia przeglądanie wpisów oraz ich szczegóły.
+Prosty blog stworzony w PHP i MySQL, pozwalający na dodawanie i przeglądanie postów.
 
 ## Technologie
-- PHP, MySQL, HTML
+- PHP  
+- MySQL  
+- HTML, CSS  
+
+## Jak uruchomić lokalnie
+
+1. Skopiuj pliki do katalogu serwera lokalnego (np. XAMPP).  
+2. Utwórz bazę danych `mini_blog` i zaimportuj `database.sql`.  
+3. Uruchom aplikację przez przeglądarkę (np. http://localhost/mini-blog).
 
 ## Funkcje
-- Lista i podgląd wpisów z bazy danych
+- Dodawanie postów  
+- Lista wszystkich postów  
+- Prosty interfejs użytkownika  
 
-## Uruchomienie
-Skonfiguruj lokalny serwer (np. XAMPP) i bazę danych."# mini-blog" 
+---
+
+## Autor  
+BoosTer  
