@@ -1,0 +1,1 @@
+<?php /* Połączenie z bazą danych */ ?>

@@ -1,0 +1,1 @@
+<?php echo 'Witaj na moim mini blogu!'; ?>
